@@ -1,2 +1,5 @@
-CS114.L22.KHCL
-Phan Anh Lộc - 19521766
+Lớp: CS114.L22.KHCL
+
+Họ tên: Phan Anh Lộc
+
+MSSV: 19521766
